@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232075767804",
+    "project_id": "cots-ea2d3",
+    "storage_bucket": "cots-ea2d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232075767804:android:b7ad3a1d2e0339276ecc79",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8q1jKq4ij4dRuXtvg5L4_U-QlQmQ9ojY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
